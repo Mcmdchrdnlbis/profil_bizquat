@@ -1,7 +1,10 @@
 
-tr {
-    background-color:o;
-}
 td {
-    background-color: yellow;
+    background-color:white;
+}
+tr {
+    background-color: white;
+}
+th {
+    background-color: orangered;
 }
